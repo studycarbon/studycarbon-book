@@ -1,4 +1,4 @@
-# carbon 中文教程
+# Carbon 中文教程
 
 <<Carbon中文教程>>，仅供学习交流使用，版权解释权归属studycarbon组织。
 
