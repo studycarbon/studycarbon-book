@@ -5,6 +5,7 @@
 * 项目主页：[https://gitee.com/studycarbon/studycarbon-book](https://gitee.com/studycarbon/studycarbon-book)
 * 项目成员：mowangshuying，@zhang736064
 * 初始版本：2022/8/30
+* 其他信息
 
 
 
